@@ -1,0 +1,26 @@
+git init (inicializar en forma local)
+
+git status (nos permite ver los cambios que se han producido)
+
+git remote -v (añadir) 
+
+git diff (nos permite ver las diferencias entre commit)
+
+git push (empujar)
+
+git pull (traer)
+
+git checkout (nos permite saltar entre ramas, versiones)
+
+git log (historial)
+
+git checkout (volver en el tiempo)
+
+git config --global "asdasd"(configurar)
+
+git config -l (ver configuracion gral)
+
+git commit (establecer el commit)
+
+git --help (explica cada comando)
+
